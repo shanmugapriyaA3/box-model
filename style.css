@@ -1,0 +1,9 @@
+div{
+    background-color: wheat;
+    text-align: center;
+    padding: 20px ;
+    margin-top: 50px;
+    border-color:black ;
+    border-width: 3px;
+    border-style: dashed;
+}
